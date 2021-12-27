@@ -33,33 +33,25 @@ publication: Proceedings of the Twenty-Ninth International Joint Conference on
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: IJCAI 2020
 url_source: ""
 url_video: ""
 title: Quadratic Sparse Gaussian Graphical Model Estimation Method for Massive
   Variables
 doi: 10.24963/ijcai.2020/410
-featured: true
+featured: false
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: poster.jpg
-date: 2021-12-27T16:41:53.476Z
+date: 2021-01-07T17:00:53.476Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
