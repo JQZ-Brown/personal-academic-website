@@ -21,7 +21,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - "**Jiaqi Zhang**"
+  - **Jiaqi Zhang**
   - Meng Wang
   - Qinchi Li
   - Sen Wang
