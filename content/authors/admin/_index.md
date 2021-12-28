@@ -1,7 +1,7 @@
 ---
 title: Jiaqi Zhang
 role: Ph.D. Student at Computer Science
-avatar_filename: icon.jpg
+avatar_filename: ""
 bio: My research interests include machine learning and bioinformatics.
 interests: []
 social:
@@ -29,4 +29,4 @@ superuser: true
 highlight_name: true
 ---
 
-Jiaqi Zhang us a Ph.D. student at Department of Computer Science, Brown University. His research interests include integrating machine learning models in bioinformatics.
+Jiaqi Zhang is a Ph.D. student at the Department of Computer Science, Brown University. His research interests include integrating machine learning models in bioinformatics.
