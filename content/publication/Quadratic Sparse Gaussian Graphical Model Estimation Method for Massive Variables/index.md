@@ -21,7 +21,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Jiaqi Zhang
+  - "**Jiaqi Zhang**"
   - Meng Wang
   - Qinchi Li
   - Sen Wang
@@ -47,11 +47,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: poster.jpg
-date: 2021-01-07T17:00:53.476Z
+date: 2020-07-01T16:00:53.476Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-
