@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Beilun Wang
-  - Jiaqi Zhang
+  - "**Jiaqi Zhang**"
   - Yan Zhang
   - Meng Wang
   - Sen Wang
