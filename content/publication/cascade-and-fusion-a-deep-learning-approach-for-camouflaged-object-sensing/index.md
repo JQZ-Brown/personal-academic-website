@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Kaihong Huang
   - Chunshu Li
-  - Jiaqi Zhang
+  - admin
   - Beilun Wang
 doi: 10.3390/s21165455
 publication: Sensors 2021
@@ -31,4 +31,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-08-13T04:00:28.038Z
+tags: ["computer vision"]
 ---

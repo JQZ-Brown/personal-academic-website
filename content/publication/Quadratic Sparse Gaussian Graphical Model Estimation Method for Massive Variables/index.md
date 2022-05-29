@@ -21,7 +21,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Jiaqi Zhang
+  - admin
   - Meng Wang
   - Qinchi Li
   - Sen Wang
@@ -39,8 +39,8 @@ url_video: ""
 title: Quadratic Sparse Gaussian Graphical Model Estimation Method for Massive
   Variables
 doi: 10.24963/ijcai.2020/410
-featured: false
-tags: []
+featured: true
+tags: ["graphical model", "featured"]
 projects: []
 image:
   caption: ""
