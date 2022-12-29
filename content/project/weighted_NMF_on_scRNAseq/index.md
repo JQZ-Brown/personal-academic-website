@@ -16,8 +16,8 @@ image:
 
 
 url_code: ""
-url_pdf: "./Dropout_Aware_Weighted_NMF_on_scRNA_seq_Data.pdf"
-url_slides: "./Non-negative Matrix Factorization on scRNA-seq Data.pdf"
+url_pdf: ""
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
