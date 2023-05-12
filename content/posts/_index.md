@@ -17,6 +17,9 @@ type: "page"  # Page type is a Widget Page
 
 ## Personal Updates
 
+### April 2023
+- :eyeglasses: Passed research comps defense. 
+
 ### April 2022
 
 - :eyeglasses: Passed research comps proposal. The project is about jointly estimating gene co-expression networks from multiple related single-cell RNA-seq data. 
