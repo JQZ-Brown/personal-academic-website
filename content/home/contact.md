@@ -18,7 +18,7 @@ content:
   
   # Contact details (edit or remove options as required)
   email: jiaqi_zhang2@brown.edu
-  # phone: (+1) 401-678-9484
+  # phone: 
   address:
     street: 164 Angll St.
     city: Providence
