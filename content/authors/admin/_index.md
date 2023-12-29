@@ -27,15 +27,19 @@ education:
       institution: Southeast University, China
       year: 2015~2020
 interests:
+  - Single-cell genomics
+  - Multi-modal integration
+  - Model interpretation
+  - Gene network
   - Probabilistic graphical model
   - Bayesian statistics
-  - Single-cell sequencing data analysis
+  
 email: "jiaqi_zhang2@brown.edu"
 superuser: true
 highlight_name: true
 
 ---
 
-I'm a Ph.D. student at the Department of Computer Science, Brown University and I work with [Dr. Ritambhara Singh](https://rsinghlab.org/). My research is about developing and applying **machine learning** methods to analyze **biological data**. In particular, my current research project focuses on estimating gene relationships from single-cell sequencing data of multiple studies.  
+I'm a Ph.D. student at the Department of Computer Science, Brown University and I work with [Dr. Ritambhara Singh](https://rsinghlab.org/). My research is about developing and applying **machine learning** methods to analyze **single-cell genomic data**. In particular, my current research project focuses on modelling cell developmental dynamics from single-cell multi-omic data.  
 
 Before joining Brown, I received my bachelor's degree in software engineering at Southeast University, China. I worked there with [Dr. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm) mainly on developing statistical methods for graphical model structure estimation. 
