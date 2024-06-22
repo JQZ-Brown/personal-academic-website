@@ -29,7 +29,7 @@ authors:
   - Beilun Wang
 author_notes: []
 publication: Proceedings of the Twenty-Ninth International Joint Conference on
-  Artificial Intelligence Main track
+  Artificial Intelligence Main track (IJCAI 2020)
 summary: ""
 url_dataset: ""
 url_project: ""
