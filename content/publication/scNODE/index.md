@@ -1,5 +1,5 @@
 ---
-title: scNODE-Generative Model for Temporal Single Cell Transcriptomic Data Prediction
+title: "scNODE:Generative Model for Temporal Single Cell Transcriptomic Data Prediction"
 
 publication_types:
   - "1"
@@ -19,4 +19,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2024-06-01T00:00:00.000Z
+url_slides: ""
+publishDate: 2024-06-01T00:00:00.000Z
 ---
