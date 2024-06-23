@@ -1,5 +1,5 @@
 ---
-title: "scNODE: Generative Model for Temporal Single Cell Transcriptomic Data Prediction"
+title: scNODE-Generative Model for Temporal Single Cell Transcriptomic Data Prediction
 
 publication_types:
   - "1"
