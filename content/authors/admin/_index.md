@@ -27,7 +27,7 @@ education:
       institution: Southeast University, China
       year: 2015~2020
 interests:
-  - Single-cell genomics
+  - Single-cell analysis
   - Multi-modal integration
   - Model interpretation
   - Gene network
