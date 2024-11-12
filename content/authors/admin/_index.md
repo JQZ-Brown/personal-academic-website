@@ -1,7 +1,7 @@
 ---
 title: Jiaqi Zhang
 role: PhD Student at Computer Science
-avatar_filename: "icon.jpg"
+avatar_filename: "avatar.jpg"
 bio: My research interests include machine learning and bioinformatics.
 social:
   - icon: envelope
