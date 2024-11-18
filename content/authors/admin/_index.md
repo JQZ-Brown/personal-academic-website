@@ -40,6 +40,6 @@ highlight_name: true
 
 ---
 
-I'm a Ph.D. student at the Department of Computer Science, Brown University and I work with [Dr. Ritambhara Singh](https://rsinghlab.org/). My research is about developing and applying **machine learning** methods to analyze **single-cell genomic data**. In particular, my current research project focuses on modelling cell developmental dynamics from single-cell multi-omic data.  
+I am a PhD candidate in the Department of Computer Science at Brown University and I work with [Dr. Ritambhara Singh](https://rsinghlab.org/). My research interest is developing machine learning methods to explore complex structures inherent in single-cell measurement data. These structures, such as gene-gene coexpression networks and cellular dynamics, are critical to understanding the intricate processes of developmental biological systems. My work emphasizes creating scalable and efficient algorithms tailored to tackle challenges arising from real-world biological applications, ensuring that theoretical advancements translate effectively into practice. In particular, my current research project focuses on modelling cell developmental dynamics from temporal multi-modal single-cell data.  
 
 Before joining Brown, I received my bachelor's degree in software engineering at Southeast University, China. I worked there with [Dr. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm) mainly on developing statistical methods for graphical model structure estimation. 
