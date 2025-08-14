@@ -7,13 +7,8 @@ cms_exclude: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-# view: 1
+view: 2
 
-design:
-  # Choose a listing view
-  view: 1
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
 
 
 # Optional header image (relative to `static/media/` folder).
