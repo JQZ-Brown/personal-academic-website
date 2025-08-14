@@ -43,12 +43,11 @@ featured: true
 tags: ["graphical model", "featured"]
 projects: []
 image:
-  caption: ""
-  focal_point: ""
+  filename: featured
+  focal_point: Smart
   preview_only: false
-  filename: poster.jpg
 date: 2020-07-01T16:00:53.476Z
 url_slides: poster.jpg
 publishDate: 2017-01-01T00:00:00.000Z
-url_code: ""
+url_code: https://github.com/ZJQxxn/Improved-EE
 ---
