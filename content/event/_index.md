@@ -1,5 +1,6 @@
 ---
 title: Recent & Upcoming Talks
+subtitle: "Talks, seminars, and conferences"
 cms_exclude: true
 
 # View.
