@@ -19,6 +19,9 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2024-06-01T00:00:00.000Z
-url_slides: ""
 publishDate: 2024-06-01T00:00:00.000Z
+
+url_code: https://github.com/rsinghlab/scNODE
+url_slides: "ECCB_slides.pdf"
+url_pdf: https://academic.oup.com/bioinformatics/article/40/Supplement_2/ii146/7749071
 ---

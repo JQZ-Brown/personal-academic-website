@@ -48,8 +48,7 @@ image:
   preview_only: false
   filename: poster.jpg
 date: 2020-07-01T16:00:53.476Z
-url_slides: ""
+url_slides: poster.jpg
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
 url_code: ""
 ---

@@ -8,7 +8,7 @@ authors:
   - admin
   - Beilun Wang
 doi: 10.3390/s21165455
-publication: Sensors 2021
+publication: Sensors
 abstract: The demand for the sensor-based detection of camouflage objects widely
   exists in biological research, remote sensing, and military applications.
   However, the performance of traditional object detection algorithms is
